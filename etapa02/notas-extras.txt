@@ -1,0 +1,15 @@
+- Comandos básicos cmd
+
+- Comando que possibilita entrar nas pastas(diretórios)
+  comando > cd <folder>
+
+- comando de voltar para as pastas(diretórios) anteriores
+  comando > cd ..
+
+- comando que volta para a pasta raiz 
+  comando > cd \.
+
+- comando que lista todas as pastas e files
+  comando > dir
+
+- 
