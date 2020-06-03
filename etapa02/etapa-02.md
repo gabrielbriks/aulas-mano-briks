@@ -33,7 +33,7 @@
 
 ## Criando o primeiro repositório
 
-- Comando > git remote add origin https://github.com/danielreis4019/aulas-mano-briks.git
+- Comando > git remote add origin https://github.com/gabrielbriks/aulas-mano-briks.git
 
 - Empurrando todos os arquivos comitados para o GitHub
   - Comando > git push -u origin master
