@@ -24,16 +24,21 @@
 
 - Basicamente esse comando exibi os **status(unstage, stage, commitado)** de nossos arquivos
   - ``` git status ```
+  
+- Basicamente ele realizar o empurrar dos nossos arquivos para o depósito do GitHub
+  - ``` git push ```
+
 
 
 ## O que é GitHub?
 
 - Basicamente é um depósito para os nossos arquivos versionados no Git.
 - Ele fica localizado na nuvem.
-
+  
 ## Criando o primeiro repositório
 
 - Comando > git remote add origin https://github.com/gabrielbriks/aulas-mano-briks.git
 
 - Empurrando todos os arquivos comitados para o GitHub
   - Comando > git push -u origin master
+
